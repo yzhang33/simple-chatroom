@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cros": "^1.0.1",
+    "express": "^4.17.2",
+    "http": "^0.0.1-security",
+    "save": "^2.4.0",
+    "socket.io": "^4.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
