@@ -2,7 +2,7 @@
   "name": "char-room",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yzhang33.github.io/simple-chatroom",
+  "homepage": "http://yzhang33.github.io/simple-chatroom",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
